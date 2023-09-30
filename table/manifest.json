@@ -1,0 +1,6 @@
+{
+  "$schema": "../sc.json",
+  "name": "table",
+  "version": "0.1.0",
+  "description": "A generic table-tree component"
+}
